@@ -30,6 +30,20 @@
 ![Bash/Shell](https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
+**Networking & Security Tools:** 
+![MikroTik](https://img.shields.io/badge/MIKROTIK-E13834?style=for-the-badge&logo=mikrotik&logoColor=white)
+![VMware](https://img.shields.io/badge/VMWARE-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Cisco CCNA](https://img.shields.io/badge/CISCO_CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Fortinet / Firewall](https://img.shields.io/badge/FIREWALL-DC382D?style=for-the-badge&logo=fortinet&logoColor=white)
+
+**Networking Concepts & Protocols:** 
+![Network Security](https://img.shields.io/badge/NETWORK_SECURITY-000000?style=for-the-badge&logo=shield&logoColor=white)
+![VPN](https://img.shields.io/badge/VPN-20A39E?style=for-the-badge&logo=openvpn&logoColor=white)
+![VLAN](https://img.shields.io/badge/VLAN-003366?style=for-the-badge)
+![DNS](https://img.shields.io/badge/DNS-FF6600?style=for-the-badge)
+![SSH](https://img.shields.io/badge/SSH-000000?style=for-the-badge&logo=openssh&logoColor=white)
+![Network Monitoring](https://img.shields.io/badge/NETWORK_MONITORING-008080?style=for-the-badge)
+
 ---
 
 ## 📌 Featured Projects
