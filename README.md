@@ -4,11 +4,14 @@
 ---
 
 ## 👨‍💻 About Me
-- 🔭 I’m currently working as a **System Administrator** specializing in enterprise IT infrastructure & cloud operations.
-- 🛠️ Expertise in **Linux (Ubuntu/Debian), Windows Server, Active Directory, Entra ID, & Microsoft 365**.
-- 🚀 Hands-on experience with **Zabbix Enterprise Monitoring**, Network Troubleshooting, and System Security.
-- 🎯 Focused on delivering high availability, automated infrastructure monitoring, and zero-downtime environments.
-- 📫 How to reach me: **mehedi106191@gmail.com**
+
+- 🔭 I’m currently working as a **System Administrator** specializing in enterprise IT infrastructure, network administration, and cloud operations.
+- 🛠️ Skilled in **Linux (Ubuntu/Debian)**, **Windows Server**, **Active Directory**, **Microsoft 365**, and **Microsoft Azure**.
+- 🐳 Hands-on experience with **Docker**, **Kubernetes**, **AWS**, and **CI/CD pipelines** for automated containerized deployments.
+- 🌐 Proficient in **Enterprise Networking** (Cisco, MikroTik, Routing & Switching, VLANs, VPNs, Firewalls) and packet analysis using **Wireshark**.
+- 🚀 Automation & Monitoring using **Bash Scripting**, **PowerShell**, and **Zabbix Enterprise Monitoring**.
+- 🎯 Focused on building scalable cloud infrastructure, robust network security, high availability, and zero-downtime environments.
+- 📬 How to reach me: **mehedi106191@gmail.com**
 
 ---
 
