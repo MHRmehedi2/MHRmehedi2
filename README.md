@@ -25,6 +25,13 @@
 ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+**🐳 DevOps, Cloud & Containerization:**
+![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/KUBERNETES-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![CI/CD Pipeline](https://img.shields.io/badge/CI%2FCD_PIPELINE-000000?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git & GitHub](https://img.shields.io/badge/GIT_%26_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
+
 **Monitoring & Scripting:**
 ![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white)
 ![Bash/Shell](https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -35,14 +42,19 @@
 ![VMware](https://img.shields.io/badge/VMWARE-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![Cisco CCNA](https://img.shields.io/badge/CISCO_CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Fortinet / Firewall](https://img.shields.io/badge/FIREWALL-DC382D?style=for-the-badge&logo=fortinet&logoColor=white)
+![Wireshark](https://img.shields.io/badge/WIRESHARK-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![PuTTY](https://img.shields.io/badge/PUTTY-000000?style=for-the-badge)
+![ERP](https://img.shields.io/badge/ERP_SYSTEMS-4A154B?style=for-the-badge)
 
-**Networking Concepts & Protocols:** 
+**🌐Networking Concepts & Protocols:** 
 ![Network Security](https://img.shields.io/badge/NETWORK_SECURITY-000000?style=for-the-badge&logo=shield&logoColor=white)
 ![VPN](https://img.shields.io/badge/VPN-20A39E?style=for-the-badge&logo=openvpn&logoColor=white)
 ![VLAN](https://img.shields.io/badge/VLAN-003366?style=for-the-badge)
 ![DNS](https://img.shields.io/badge/DNS-FF6600?style=for-the-badge)
 ![SSH](https://img.shields.io/badge/SSH-000000?style=for-the-badge&logo=openssh&logoColor=white)
 ![Network Monitoring](https://img.shields.io/badge/NETWORK_MONITORING-008080?style=for-the-badge)
+![LAN/WAN](https://img.shields.io/badge/LAN%2FWAN-003366?style=for-the-badge)
+![Routing & Switching](https://img.shields.io/badge/ROUTING_%26_SWITCHING-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 ---
 
